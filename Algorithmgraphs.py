@@ -1,7 +1,9 @@
+#This file shows the comparision among different algorithms with accuracy
+
 import matplotlib.pyplot as plt
 from matplotlib import pyparsing
 import numpy as np
-from Python_class.Decisiontree import a
+from Python_class.Decisiontree import a # call the file from source
 from Python_class.SVM import c
 from Python_class.Multinomialnaivebayes import b
 from Python_class.Bernauliclassifier import d
